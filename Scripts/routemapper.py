@@ -1,7 +1,7 @@
 """
 This script converts routetagger files to a CSV file with the OSM node segment ids.
 Usage: routetmapper.py <input> <output>
-Output file format: a CSV with headers; col 1: sensor ID; col 2: space-separated OSM node IDs
+Output file format: a CSV without headers; col 1: sensor ID; col 2: space-separated OSM node IDs
 """
 
 import sys
@@ -57,7 +57,6 @@ def run(filename, outfile):
     csv = get_csv_lines(filename)
     results = (get_final_obj(row) for row in csv)
     with open(outfile, mode='w+') as out:
-        out.write('id,path\n')
         for id, nodes in results:
             out.write('%s,%s\n' % (id, ' '.join(nodes)))
 
