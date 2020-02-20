@@ -15,3 +15,5 @@ The following error message repeated in a loop (with increasing timestamp) for o
 The solution was to add the line `listeners=PLAINTEXT://192.168.10.8:9092` to `config/server.properties` in the kafka install directory. This solution is based on [this stackoverflow answer](https://stackoverflow.com/a/50367354). Specifically, the IP address specified in `listeners=etc.` must match the IP address the client is using to connect to the kafka server.
 
 Our hypothesis is that while kafka defaults to listening to the machine's hostname if this field is not provided, the machine's hostname was the server IP and not the individual kafka VM IP address. Thus, when running kafka on a virtual machine, the IP of the virtual machine is required in `server.properties`.
+
+fix time: ~10 hours
