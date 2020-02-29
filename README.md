@@ -29,7 +29,9 @@ Technologies Utilized:
 
 Additional repositories for the project located at:
 > https://github.com/jonathonflorek/routetagger
+
 > https://github.com/jonathonflorek/osrm-adapter-batch
+
 > https://github.com/jonathonflorek/speedstream
 
 
