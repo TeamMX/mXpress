@@ -1,4 +1,4 @@
-OpenMapTiles Server
+# OpenMapTiles Server
 
 Hardware
 > Dell PowerEdge R720
