@@ -1,4 +1,4 @@
-# MXpress Vehicle Routing System
+# mXpress Vehicle Routing System
 ## Team MX
 
 Home of the Team MX Capstone project
@@ -10,7 +10,7 @@ Contributors:
 - minbarix
 - jonathonflorek
 
-### An Adapatable Framework Based on Apache Spark
+### An Adapatable Framework for Vehicle Routing Based on Apache Spark
 Technologies Utilized:
 > Apache Spark
 
@@ -18,14 +18,21 @@ Technologies Utilized:
 
 > Apache Kafka
 
-> Apache Cassandra 
-
 > Maven 
 
 > Open Source Routing Machine
 
 > OpenStreetMap
 
+> Leaflet
+
+> OpenMapTiles
+
+> Docker
+
+> Kitematic
+
+> MongoDB
 
 Additional repositories for the project located at:
 > https://github.com/jonathonflorek/routetagger
