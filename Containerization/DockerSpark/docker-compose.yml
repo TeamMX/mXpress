@@ -1,0 +1,33 @@
+version: "3.3"
+services:
+  spark-masterx:
+    image: capstone/spark:latest
+    container_name: spark-masterx
+    hostname: spark-masterx
+    ports:
+    - "8081:8081"
+    - "7078:7078"
+    networks:
+    - spark-network
+    environment:
+    - "SPARK_LOCAL_IP=spark-masterx"
+    - "SPARK_MASTER_PORT=7078"
+    - "SPARK_UI_PORT=8081"
+    command: "/start-masterx.sh"
+  spark-worker:
+    image: capstone/spark:latest
+    depends_on:
+    - spark-masterx
+    ports:
+    - 8081
+    networks:
+    - spark-network
+    environment:
+    - "SPARK_MASTER=spark://spark-masterx:7078"
+    - "SPARK_WORKER_UI_PORT=8081"
+    command: "/start-worker.sh"
+networks:
+  spark-network:
+    driver: bridge
+    ipam:
+      driver: default
