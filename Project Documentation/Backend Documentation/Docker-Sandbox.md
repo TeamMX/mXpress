@@ -10,4 +10,5 @@ Hardware Specification
 > 120GB SATA SSD
 
 Operates as a docker test deployment server for developing dockerfiles and testing containers and networking. 
+
 Once dockerfiles and docker-compose scripts and bash shell scripts are written, they are deployed to production docker environment on other servers
