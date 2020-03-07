@@ -1,0 +1,44 @@
+ul {
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+li:not(.logo):not(.logo_img) {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active):not(.logo) {
+    background-color: rgba(128, 128, 128, 0.75);
+}
+
+.active {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.logo_img {
+    margin-top: 9px;
+    position: fixed;
+    right: 15px;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+html, body, #mapid {
+    height: 98%;
+    width: 100vw;
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/node_modules/leaflet/dist/leaflet.css"/>
+    <script src="/node_modules/leaflet/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="/node_modules/leaflet-routing-machine/dist/leaflet-routing-machine.css"/>
+    <link rel="stylesheet" href="mxpress.css"/>
+    <link rel="stylesheet" href="/node_modules/leaflet-control-geocoder/dist/Control.Geocoder.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+</head>
+<nav>
+    <ul id = "navbar">
+        <li><a href="home.html">Home</a></li>
+        <li><a class ="active" href="mxpress.html">Maps</a></li>
+        <li><a href="#AboutUs">About Us</a></li>
+        <li><a class = "logo"><b></b></a></li>
+        <li> <img class = "logo_img" src="mxpress.png" alt="d" style = "display:inline" width = "90" height = "30"/></li>
+    </ul>
+</nav>
+<body>
+    <script src="/node_modules/leaflet-routing-machine/dist/leaflet-routing-machine.js"></script>
+    <script src="/node_modules/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
+    <script src="/node_modules/esri-leaflet/dist/esri-leaflet.js"></script>
+    <script src="/node_modules/leaflet.vectorgrid/dist/Leaflet.VectorGrid.bundled.js"></script>
+    <script src="mxpress.js"></script>
+    <div id="mapid"></div>
+    <body onload="mxpress()"> 
+</body>
+</html>
