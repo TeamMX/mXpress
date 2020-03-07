@@ -1,5 +1,5 @@
 """
-This script extracts sensor IDs, descriptions, and locations from exported sensor telemetry dataset.
+This script extracts sensor IDs, descriptions, and locations from a months' sensor data as provided by ITSOS.
 Usage: extract-sensors.py <input> <output>
 The output of this script can be used directly by routetagger.
 The input path must be to a directory containing 'speed' folder.
