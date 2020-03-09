@@ -35,10 +35,14 @@ Technologies Utilized:
 > MongoDB
 
 Additional repositories for the project located at:
-> https://github.com/jonathonflorek/routetagger
+> https://github.com/TeamMX/routetagger
 
-> https://github.com/jonathonflorek/osrm-adapter-batch
+> https://github.com/TeamMX/osrm-adapter-batch
 
-> https://github.com/jonathonflorek/speedstream
+> https://github.com/TeamMX/speedstream
+
+> https://github.com/TeamMX/batch-job
+
+> https://github.com/TeamMX/here-to-sensor
 
 
