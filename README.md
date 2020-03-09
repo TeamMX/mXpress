@@ -35,14 +35,14 @@ Technologies Utilized:
 > MongoDB
 
 Additional repositories for the project located at:
-> https://github.com/TeamMX/routetagger
+> [Routetagger](https://github.com/TeamMX/routetagger)
 
-> https://github.com/TeamMX/osrm-adapter-batch
+> [Spark OSRM integration](https://github.com/TeamMX/osrm-adapter-batch)
 
-> https://github.com/TeamMX/speedstream
+> [Spark stream analytics](https://github.com/TeamMX/speedstream)
 
-> https://github.com/TeamMX/batch-job
+> [Spark batch analytics](https://github.com/TeamMX/batch-job)
 
-> https://github.com/TeamMX/here-to-sensor
+> [HERE Sensor Map Exporter](https://github.com/TeamMX/here-to-sensor)
 
 
