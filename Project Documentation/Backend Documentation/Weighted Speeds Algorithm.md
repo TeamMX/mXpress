@@ -36,7 +36,7 @@ Objective: somehow collect useful historical data.
 
 Solution: divide data from sensors into buckets within a 24-hour time period. Since unix timestamps ignore leap seconds, taking timestamp modulo 24 * 60 * 60 is effective way to sort into buckets. Buckets can further be combined (such as into 5 minute intervals) when our system only receives records every 20 seconds. This minimizes or eliminates the number of 'buckets' that do not contain recent information. When comparing historical data for a given time of day to produce current day estimate, exponential weighted average by timestamp (more recent values having higher weight) used. Different half-life, such as 2 days, used since batch deals in longer time periods.
 
-## Combining Them into OSRM CSV
+## Combining them into the OSRM CSV
 
 Naive implementation: average of batch and stream results. When one is missing, just use the one that is present. Can be tuned later.
 
