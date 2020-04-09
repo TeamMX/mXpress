@@ -5,7 +5,9 @@ Home of the Team MX Capstone project
 
 ![Logo][logo]
 
-Sept 2019 - April 2020
+The objective of this project is to build a vehicle routing system that responds to real-time road speed traffic updates provided by ITSOS road sensors. Our web application is live at http://mxpress.ca/.
+
+*Sept 2019 - April 2020*
 
 Contributors:
 - [rmf757](https://github.com/rmf757)
