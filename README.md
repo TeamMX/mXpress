@@ -8,9 +8,9 @@ Home of the Team MX Capstone project
 Sept 2019 - April 2020
 
 Contributors:
-- rmf757
-- minbarix
-- jonathonflorek
+- [rmf757](https://github.com/rmf757)
+- [minbarix](https://github.com/minbarix)
+- [jonathonflorek](https://github.com/jonathonflorek)
 
 ![Title][title]
 ![Naviation][navigation]
