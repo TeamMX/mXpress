@@ -3,12 +3,17 @@
 
 Home of the Team MX Capstone project
 
+![Logo][logo]
+
 Sept 2019 - April 2020
 
 Contributors:
 - rmf757
 - minbarix
 - jonathonflorek
+
+![Title][title]
+![Naviation][navigation]
 
 ### An Adapatable Framework for Vehicle Routing Based on Apache Spark
 Technologies Utilized:
@@ -44,3 +49,7 @@ Additional repositories for the project located at:
 > [Spark batch analytics](https://github.com/TeamMX/batch-job)
 
 > [HERE Sensor Map Exporter](https://github.com/TeamMX/here-to-sensor)
+
+[logo]: images/mXpress-logo-transparent.png "Logo"
+[title]: images/title.png "Title"
+[navigation]: images/routing.png "Routing"
