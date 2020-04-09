@@ -7,3 +7,4 @@ This directory contains process and project documentation of the following types
 - Project roadmaps
 - Prototypes / Wireframes
 - Testing Reports
+- Presentation slides for progress reports
