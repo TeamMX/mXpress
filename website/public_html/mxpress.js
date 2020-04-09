@@ -20,7 +20,7 @@ function initRouting(mxpressMap) {
     L.Routing.control({
         routeWhileDragging: true,
         geocoder: L.Control.Geocoder.bing("Atykyd__1yOLIeRcYL87DENn51slA-VNIB8VVtAyKVo7tvkA1Zmtpz5dqudgaxqd"),
-        serviceUrl: 'http://192.168.10.2:5000/route/v1'
+        serviceUrl: 'http://mxpress.ca:5000/route/v1'
     }).addTo(mxpressMap);
 
     return mxpressMap;
