@@ -57,6 +57,8 @@ Server configuration files are in [Configuration](/Configuration).
 
 Docker files are in [Containerization](/Containerization)
 
+The source code for the mobile application is in [Mobile Application](/Mobile%20Application)
+
 ## Other Repositories containing code for this project
 
 > [Routetagger](https://github.com/TeamMX/routetagger)
