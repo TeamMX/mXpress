@@ -3,8 +3,6 @@
 
 Home of the Team MX Capstone project
 
-[Project Documentation](Project%20Documentation) sample link
-
 ![Logo][logo]
 
 The objective of this project is to build a vehicle routing system that responds to real-time road speed traffic updates provided by ITSOS road sensors. Our web application is live at http://mxpress.ca/.
@@ -43,7 +41,20 @@ Technologies Utilized:
 
 > MongoDB
 
-Additional repositories for the project located at:
+## Documentation and other repository contents
+
+Project documentation, including requirements specifications, user personas, milestones, and testing reports are available in the [Project Documentation](/Project%20Documentation) directory.
+
+Implementation documentation, such as scrum reports, installation notes, and infrastructure testing code is available in [Code Documentation](/Code%20Documentation).
+
+Miscellaneous scripts, including one-off data extraction scripts and the OSRM loader, are available in [Scripts](/Scripts).
+
+Server configuration files are in [Configuration](/Configuration).
+
+Docker files are in [Containerization](/Containerization)
+
+## Other Related Repositories
+
 > [Routetagger](https://github.com/TeamMX/routetagger)
 
 > [Spark OSRM integration](https://github.com/TeamMX/osrm-adapter-batch)
