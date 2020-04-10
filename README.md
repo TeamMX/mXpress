@@ -7,6 +7,8 @@ Home of the Team MX Capstone project
 
 [![Our Video](http://img.youtube.com/vi/FvmGzk9TWlE/0.jpg)](http://www.youtube.com/watch?v=FvmGzk9TWlE)
 
+or download the complete video [here](https://drive.google.com/file/d/1Zxm79ncg6p_bDA2LaAZsXckWHIi800hC/view?usp=sharing).
+
 **See our poster** [here](/mXpress%20Poster.pdf).
 
 The objective of this project is to build a vehicle routing system that responds to real-time road speed traffic updates provided by ITSOS road sensors. Our web application is live at http://mxpress.ca/.
