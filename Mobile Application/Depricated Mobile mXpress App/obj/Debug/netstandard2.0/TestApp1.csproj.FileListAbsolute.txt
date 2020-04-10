@@ -1,0 +1,13 @@
+X:\App Projects\TestApp1\TestApp1\bin\Debug\netstandard2.0\TestApp1.deps.json
+X:\App Projects\TestApp1\TestApp1\bin\Debug\netstandard2.0\TestApp1.dll
+X:\App Projects\TestApp1\TestApp1\bin\Debug\netstandard2.0\ref\TestApp1.dll
+X:\App Projects\TestApp1\TestApp1\bin\Debug\netstandard2.0\TestApp1.pdb
+X:\App Projects\TestApp1\TestApp1\obj\Debug\netstandard2.0\TestApp1.csprojAssemblyReference.cache
+X:\App Projects\TestApp1\TestApp1\obj\Debug\netstandard2.0\App.xaml.g.cs
+X:\App Projects\TestApp1\TestApp1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+X:\App Projects\TestApp1\TestApp1\obj\Debug\netstandard2.0\TestApp1.AssemblyInfoInputs.cache
+X:\App Projects\TestApp1\TestApp1\obj\Debug\netstandard2.0\TestApp1.AssemblyInfo.cs
+X:\App Projects\TestApp1\TestApp1\obj\Debug\netstandard2.0\XamlC.stamp
+X:\App Projects\TestApp1\TestApp1\obj\Debug\netstandard2.0\TestApp1.dll
+X:\App Projects\TestApp1\TestApp1\obj\Debug\netstandard2.0\ref\TestApp1.dll
+X:\App Projects\TestApp1\TestApp1\obj\Debug\netstandard2.0\TestApp1.pdb
