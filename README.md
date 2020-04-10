@@ -16,8 +16,8 @@ Contributors:
 - [minbarix](https://github.com/minbarix)
 - [jonathonflorek](https://github.com/jonathonflorek)
 
-![Title][title]
-![Naviation][navigation]
+[![Title][title]](http://mxpress.ca/)
+[![Naviation][navigation]](https://www.mxpress.ca/mxpress.html)
 
 ### An Adapatable Framework for Vehicle Routing Based on Apache Spark
 Technologies Utilized:
@@ -47,7 +47,7 @@ Technologies Utilized:
 
 Project documentation, including requirements specifications, user personas, milestones, and testing reports are available in the [Project Documentation](/Project%20Documentation) directory.
 
-Implementation documentation, such as scrum reports, installation notes, and infrastructure testing code is available in [Code Documentation](/Code%20Documentation).
+Implementation documentation, such as our after action review, scrum reports, installation notes, and infrastructure testing code is available in [Code Documentation](/Code%20Documentation).
 
 Miscellaneous scripts, including one-off data extraction scripts and the OSRM loader, are available in [Scripts](/Scripts).
 
