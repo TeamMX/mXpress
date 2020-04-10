@@ -55,7 +55,7 @@ Server configuration files are in [Configuration](/Configuration).
 
 Docker files are in [Containerization](/Containerization)
 
-## Other Related Repositories
+## Other Repositories containing code for this project
 
 > [Routetagger](https://github.com/TeamMX/routetagger)
 
